@@ -1,3 +1,5 @@
+This repo contains a quick analysis of different social indicators for young populations in Poland, Germany, Italy, Spain and France.
+
 ![Main indicators](main_indicators.png)
 
 ![Unemployment rate](unemployment_rate.png)
